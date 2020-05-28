@@ -12,6 +12,7 @@ This project demostrate following concepts of angular:
 - HttpClinet and HttpHeaders Module
 - FormModule, Two-Way data binding
 - Routing
+- use https://jsonplaceholder.typicode.com/ readymade todo api to create this demo
 
 ## Development server
 
